@@ -1,5 +1,5 @@
-@import url(https://raw.githubusercontent.com/Freezlex/BetterDiscord/main/Themes/_res/SettingsIcon.css);
-@import url(https://raw.githubusercontent.com/Freezlex/BetterDiscord/main/Themes/BlurpleRecolor/BlurpleRecolor.css);
+@import url(https://freezlex.github.io/BetterDiscord/Themes/res/SettingsIcon.css);
+@import url(https://freezlex.github.io/BetterDiscord/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
 :root {
     --dtransparencycolor:			0,0,0;

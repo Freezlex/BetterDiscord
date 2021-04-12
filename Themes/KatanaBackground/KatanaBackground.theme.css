@@ -13,7 +13,7 @@
 
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
 
-@import url(https://raw.githubusercontent.com/Freezlex/BetterDiscord/main/Themes/KatanaBackground/_res/KatanaBackground.css);
+@import url(https://freezlex.github.io/BetterDiscord/Themes/KatanaBackground/res/KatanaBackground.css);
 
 :root {
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
